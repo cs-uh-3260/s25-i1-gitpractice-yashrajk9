@@ -6,3 +6,7 @@ I enjoyed reading the article "What Is Software Development?" because it provide
 
 --Proof reading--
 Article checked for typos
+
+## Sarah's Comments
+
+Glad to know that you learned about the diverse phases and roles in the SDLC. They say it takes a village :-)
